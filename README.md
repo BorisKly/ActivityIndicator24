@@ -6,3 +6,5 @@
    url:  https://github.com/BorisKly/ActivityIndicator24
 ## Requirements
 * iOS 15.0
+
+## Origin from exyte
