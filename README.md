@@ -7,4 +7,4 @@
 ## Requirements
 * iOS 15.0
 
-## Origin from exyte
+## Origin from exyte.com
